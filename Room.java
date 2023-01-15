@@ -1,13 +1,3 @@
-/*
-
-CPCS 203 - ASSIGNMENT #3 | KAU HOSPITAL SYSTEM
-Name : Faisal Bin Hassan
-ID No : 2136143
-Course : CPCS 203 - ZJ
-Lab Instructer Name : Dr Ibrahim AlHarby
-
-*/
-
 package ASSIGNMENTS;
 
 public class Room {
